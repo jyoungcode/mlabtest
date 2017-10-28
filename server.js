@@ -80,4 +80,6 @@ app.listen(app.get('port'), function() {
   console.log('Express server listening on port ' + app.get('port'));
 });
 
+// github에  변경사항 테스트 주석
+// 코드 추가 되었다.
 module.exports = app;
